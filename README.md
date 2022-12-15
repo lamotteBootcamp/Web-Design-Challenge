@@ -1,1 +1,1 @@
-# web-design-challenge2.github.io
+# web-design-challenge.github.io
