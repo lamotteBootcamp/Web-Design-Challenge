@@ -1,6 +1,97 @@
-navbar {
-    position:absolute;
-    left: 75%
-
-
+html {
+    position: relative;
+    min-height: 100%;
 }
+
+body {
+
+    margin-bottom: 150px;
+
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    background-color: azure;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+
+    body {
+        background-color:blanchedalmond;
+    }
+}
+
+.navbar {
+    background-color:rgb(127, 255, 195);
+    text-align: right;
+    padding-bottom: 0px;
+    padding-top: 6px;
+    padding-right: 40px;
+    
+}
+
+
+.dropdown-menu {
+
+    margin:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
